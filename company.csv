@@ -1,0 +1,11 @@
+emp_id,name,department,salary,age,experience,city
+1,Aman,Sales,35000,24,2,Delhi
+2,Priya,IT,55000,28,5,Mumbai
+3,Rahul,Sales,32000,23,1,Delhi
+4,Sneha,IT,60000,30,6,Bangalore
+5,Karan,HR,40000,26,3,Delhi
+6,Riya,Sales,38000,25,2,Mumbai
+7,Arjun,HR,42000,29,4,
+8,Pooja,IT,58000,27,5,Bangalore
+9,Vikram,Sales,,24,2,Delhi
+10,Neha,HR,45000,31,6,Mumbai
